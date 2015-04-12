@@ -9,6 +9,8 @@ gem 'jquery-rails', '~> 3.0.0'
 gem 'grape', '~> 0.10.1'
 gem 'uglifier', '>= 1.0.3'
 gem 'zip-zip', '~> 0.2'
+gem 'grape-swagger-rails'
+gem 'swagger-ui_rails'
 
 group :development, :test do
   gem 'rspec', '~> 3.1'
